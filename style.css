@@ -3,7 +3,7 @@
   src: url(./assets/fonts/static/Inter-Regular.ttf);
 }
 
-h2 {
+h1 {
   font-family: Inter, sans-serif;
   color: hsl(75, 94%, 57%);
   font-size: 18px;
@@ -14,7 +14,7 @@ h2 {
   letter-spacing: 1.5px;
 }
 
-h3,
+h2,
 p {
   font-family: Inter;
 }
