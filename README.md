@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Social Links Profile Solution](https://github.com/FrontEndExplorer-Temp/social-links-profile)
-- Live Site URL: [Social Links Profile Live Site Link](https://www.frontendmentor.io/profile/FrontEndExplorer-Temp)
+- Live Site URL: [Social Links Profile Live Site Link](https://frontendexplorer-temp.github.io/social-links-profile/)
 
 ## My process
 
